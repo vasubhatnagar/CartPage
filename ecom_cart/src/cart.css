@@ -1,0 +1,20 @@
+.cartHeader{
+    display: flex;
+    justify-content: center;
+    row-gap: 20px;
+    column-gap: 40px;
+    align-items: center;
+}
+.cartCard{
+    margin: 15px;
+    padding: 5px;
+    background-color: lightgoldenrodyellow;
+    box-shadow: 5px 5px 5px;
+}
+
+.qtyContainer{
+    display: flex;
+    padding: 0px;
+    height:35px;
+    align-items: center;
+}
